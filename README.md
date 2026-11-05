@@ -40,3 +40,10 @@ python -m unittest discover -s tests -v
 ## Suggested evidence
 
 Use a canonical package manifest or registry record plus an independent upstream release or capability document. The contract requires two distinct registrable domains.
+
+## Studio deployment
+
+- Contract: `0xE9165c748219beAEE5D03C6813f174e11f57406f`
+- Explorer: https://explorer-studio.genlayer.com/address/0xE9165c748219beAEE5D03C6813f174e11f57406f
+
+The deployed Studio source matches `contracts/skill_integrity_court.py` at commit `300e5c6`.
